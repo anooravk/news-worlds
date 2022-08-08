@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-a flutter app used to get new all over the world using new api and app also consist of different themes 
+a flutter app used to get news all over the world using news api and it also consist of different themes 
